@@ -59,10 +59,10 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-assets:
-     - car.png
-     - crossover.png
-     -
+  assets:
+     - images/green_car.png
+     - images/red_car.png
+     
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
